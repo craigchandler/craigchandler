@@ -22,4 +22,6 @@ Feel free to explore my repositories and projects, and don’t hesitate to reach
 
 If you find my tools useful, you can support ongoing development:
 
-[Buy me a coffee](https://buymeacoffee.com/craigchandler)
+- GitHub Sponsors: https://github.com/sponsors/craigchandler
+- Buy Me a Coffee: https://www.buymeacoffee.com/craigchandler
+- PayPal: https://www.paypal.me/craigchandler
