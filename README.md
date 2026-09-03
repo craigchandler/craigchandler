@@ -1,27 +1,38 @@
-# Hi there, I'm Craig Chandler 👋
+# Craig Chandler
 
-I'm a seasoned Decision Support Specialist and Solution Architect with over 18 years of experience in developing analytical tools for capacity planning, scheduling, and risk management. My work spans across various industries including transportation, logistics, mining, and manufacturing.
+Solution Architect working across analytical software, cloud architecture,
+operational modelling and decision-support systems.
 
-### Professional Highlights
-- **FAID Quantum Multi-Tenant Web Application**: Developed a PWA for advanced fatigue analysis, leveraging Angular and C# .NET Core. [Learn More](https://faidquantum.com/)
-- **InterDynamics Licensing Platform**: Led the development of a licensing and product update distribution system (PWA). [Learn More](https://licensing.interdynamics.com/about)
-- **Roy Hill Rail Operations Simulation**: Enhanced a simulation platform to analyze the impact of rail scheduling on system throughput.
+I have more than 25 years of experience designing and building systems where
+software, models and real-world operations meet.
 
-### What I Do
-- **Full Stack Development**: Angular, Angular Material, RxJS, .NET
-- **Cloud Architecture**: Azure, AWS, Google Cloud Platform
-- **Simulation Modeling**: Discrete event simulation for complex systems
+## Selected work
 
-### Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/craig-chandler)
-- [Portfolio](http://craigchandler.xyz/)
+- **FAID Quantum** — multi-tenant fatigue-risk analytics delivered through web,
+  managed API and native integration.
+  [Case study](https://craigchandler.xyz/work/faid-quantum)
 
-Feel free to explore my repositories and projects, and don’t hesitate to reach out if you’re interested in collaborating!
+- **DASH-X** — cloud architecture for asynchronous simulation and analytical
+  workloads.
+  [Case study](https://craigchandler.xyz/work/dash-x)
 
-## ☕ Support My Work
+- **Moving Block Train Control** — cross-platform C++ control component for
+  topology-aware train separation and operational simulation.
+  [Case study](https://craigchandler.xyz/work/moving-block)
 
-If you find my tools useful, you can support ongoing development:
+- **Rail & Bulk Supply Chain Modelling** — discrete-event modelling for mine,
+  rail, port and logistics systems.
+  [Case study](https://craigchandler.xyz/work/rail-supply-chain)
 
-- GitHub Sponsors: https://github.com/sponsors/craigchandler
-- Buy Me a Coffee: https://www.buymeacoffee.com/craigchandler
-- PayPal: https://www.paypal.me/craigchandler
+## Current engineering interests
+
+- Solution and software architecture
+- Azure and cloud-native systems
+- C++, C#, .NET, Angular and Go
+- Discrete-event simulation and operational modelling
+- Developer tooling and self-hosted infrastructure
+
+## Elsewhere
+
+[Portfolio](https://craigchandler.xyz) ·
+[LinkedIn](https://www.linkedin.com/in/craig-chandler)
